@@ -9,3 +9,5 @@ do Git e também da plataforma Github
 
 - [@DiegMelo](https://www.github.com/DiegMelo)
 
+Bug Corrigido!!
+
